@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="doc_capture_camera_button_shutter_corner_radius">8dp</dimen>
+</resources>

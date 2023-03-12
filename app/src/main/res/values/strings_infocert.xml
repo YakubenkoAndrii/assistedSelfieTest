@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ****************************************************************************** -->
+    <!--                                    INFOCERT                                    -->
+    <!-- ****************************************************************************** -->
+
+    <!-- Document capture -->
+    <string name="doc_capture_camera_title_rpc">Carte de séjour</string>
+    <string name="doc_capture_camera_title_rpc_front" translatable="false">@string/doc_capture_camera_title_rpc</string>
+    <string name="doc_capture_camera_title_rpc_back" translatable="false">@string/doc_capture_camera_title_rpc</string>
+    <string name="doc_capture_camera_title_idc">Carte d’identité</string>
+    <string name="doc_capture_camera_title_pidc_inside" translatable="false">@string/doc_capture_camera_title_idc</string>
+    <string name="doc_capture_camera_title_pidc_cover" translatable="false">@string/doc_capture_camera_title_idc</string>
+    <string name="doc_capture_camera_title_eidc_front" translatable="false">@string/doc_capture_camera_title_idc</string>
+    <string name="doc_capture_camera_title_eidc_back" translatable="false">@string/doc_capture_camera_title_idc</string>
+    <string name="doc_capture_camera_title_passport_inside">Passeport</string>
+
+    <string name="doc_capture_camera_subtitle_rpc_front">Centrez le recto carte de votre carte de séjour à l’intérieur du cadre.</string>
+    <string name="doc_capture_camera_subtitle_rpc_back">Centrez le verso carte de votre carte de séjour à l’intérieur du cadre.</string>
+    <string name="doc_capture_camera_subtitle_pidc_inside">Centrez le recto de votre carte d’identité à l’intérieur du cadre.</string>
+    <string name="doc_capture_camera_subtitle_pidc_cover">Centrez le verso de votre carte d’identité à l’intérieur du cadre.</string>
+    <string name="doc_capture_camera_subtitle_eidc_front">Centrez le recto de votre carte d’identité à l’intérieur du cadre.</string>
+    <string name="doc_capture_camera_subtitle_eidc_back">Centrez le verso de votre carte d’identité à l’intérieur du cadre.</string>
+    <string name="doc_capture_camera_subtitle_passport_inside">Centrez votre passeport à l’intérieur du cadre.</string>
+
+    <string name="doc_capture_check_button_accept">Valider cette photo</string>
+    <string name="doc_capture_check_button_discard">Prendre une nouvelle photo</string>
+    <string name="doc_capture_check_title">Pièce d’identité</string>
+    <string name="doc_capture_check_subtitle">Assurez-vous que la photo de votre pièce d’identité n’est pas coupée, reste lisible, sans flou ni reflet.</string>
+    <string name="doc_capture_dialog_exit_message">Etes-vous sûr de vouloir quitter la prise de photographie de votre justificatif d’identité?</string>
+    <string name="doc_capture_dialog_exit_title">Info</string>
+
+    <string name="doc_capture_dialog_exit_yes">Oui</string>
+    <string name="doc_capture_dialog_exit_no">Non</string>
+
+    <!-- Selfie -->
+    <string name="assisted_selfie_start_title">Appuyer sur le bouton "Commencer".</string>
+    <string name="assisted_selfie_start_subtitle">Prenez une photo de vous qui soit lisible, sans flou ni reflet</string>
+    <string name="assisted_selfie_start_button">Commencer</string>
+    <string name="assisted_selfie_dialog_exit_cancel">Non</string>
+    <string name="assisted_selfie_dialog_exit_message">Etes-vous sûr de vouloir quitter la vérification de votre identité?</string>
+    <string name="assisted_selfie_dialog_exit_ok">Oui</string>
+    <string name="assisted_selfie_liveness_subtitle_close_eyes">Gardez votre visage en face de votre appareil. Fermez les yeux jusqu’au signal de votre appareil. Rouvrez les yeux.</string>
+    <string name="assisted_selfie_liveness_subtitle_smile">Gardez votre visage en face de votre appareil. Souriez jusqu’au signal de votre appareil.</string>
+    <string name="assisted_selfie_liveness_subtitle_tilt_left">Inclinez lentement votre visage vers la gauche jusqu’au signal de votre appareil.</string>
+    <string name="assisted_selfie_liveness_subtitle_tilt_right">Inclinez lentement votre visage vers la droite jusqu’au signal de votre appareil.</string>
+    <string name="assisted_selfie_liveness_subtitle_turn_left">Tournez lentement votre visage vers la gauche jusqu’au signal de votre appareil.</string>
+    <string name="assisted_selfie_liveness_subtitle_turn_right">Tournez lentement votre visage vers la droite jusqu’au signal de votre appareil.</string>
+    <string name="assisted_selfie_liveness_title_close_eyes">Fermez les yeux</string>
+    <string name="assisted_selfie_liveness_title_smile">Souriez</string>
+    <string name="assisted_selfie_liveness_title_tilt_left">Inclinez votre visage vers la gauche</string>
+    <string name="assisted_selfie_liveness_title_tilt_right">Inclinez votre visage vers la droite</string>
+    <string name="assisted_selfie_liveness_title_turn_left">Tournez votre visage vers la gauche</string>
+    <string name="assisted_selfie_liveness_title_turn_right">Tournez votre visage vers la droite</string>
+    <string name="assisted_selfie_photo_alert_too_close">Vous êtes trop proche.</string>
+    <string name="assisted_selfie_photo_alert_too_far">Vous êtes trop éloigné.</string>
+    <string name="assisted_selfie_photo_countdown_counter_plural"> secondes</string>
+    <string name="assisted_selfie_photo_countdown_counter_singular"> seconde</string>
+    <string name="assisted_selfie_photo_countdown_title">Prise de photo dans…</string>
+    <string name="assisted_selfie_photo_taken">Photo prise</string>
+    <string name="assisted_selfie_start_processing">Traitement en cours…</string>
+    <string name="assisted_selfie_photo_alert_not_aligned">Votre visage n’est pas aligné.</string>
+    <string name="assisted_selfie_photo_alert_not_inside_oval">Votre visage n’est pas dans l’ovale.</string>
+    <string name="assisted_selfie_photo_alert_multiple_faces_detected">Plus d’un visage sur la photo.</string>
+    <string name="assisted_selfie_liveness_title_intra_step">OK</string>
+    <string name="assisted_selfie_liveness_subtitle_intra_step"></string>
+    <string name="assisted_selfie_start_button_width">0.6</string>
+
+    <string name="assisted_selfie_internal_check_title_error_no_face">Visage non aligné dans le cadre</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_no_face" />
+    <string name="assisted_selfie_internal_check_title_error_multiple_faces">Plusieurs visages détectés</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_multiple_faces" />
+    <string name="assisted_selfie_internal_check_title_error_face_not_aligned">Visage non aligné dans le cadre</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_face_not_aligned" />
+    <string name="assisted_selfie_internal_check_title_error_too_smiling_face">Visage trop souriant</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_too_smiling_face" />
+    <string name="assisted_selfie_internal_check_title_error_eyes_zone_too_dark">Photo trop sombre</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_eyes_zone_too_dark" />
+    <string name="assisted_selfie_internal_check_title_error_on_eyes">Photo non conforme</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_on_eyes">Gardez les yeux ouverts</string>
+    <string name="assisted_selfie_internal_check_title_error_on_face_landmark">Visage non aligné dans le cadre</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_on_face_landmark" />
+    <string name="assisted_selfie_internal_check_title_error_selfie_not_valid">Photo non conforme</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_selfie_not_valid" />
+    <string name="assisted_selfie_internal_check_button_discard">Reprendre la photo</string>
+    <string name="assisted_selfie_photo_alert_no_action_timer_title">Attention</string>
+    <string name="assisted_selfie_photo_alert_no_action_timer_message">Assurez-vous de garder votre visage dans l’ovale et que la luminosité est suffisante.</string>
+    <string name="assisted_selfie_photo_alert_no_action_timer_ok">OK</string>
+
+</resources>

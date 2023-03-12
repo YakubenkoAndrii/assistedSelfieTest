@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assistedSelfieTest</string>
+    <string name="assisted_selfie_memory_alert_message">assisted_selfie_memory_alert_message</string>
+    <string name="assisted_selfie_memory_alert_ok">assisted_selfie_memory_alert_ok</string>
+</resources>

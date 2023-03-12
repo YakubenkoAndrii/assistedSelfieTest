@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ****************************************************************************** -->
+    <!--                                    INFOCERT                                    -->
+    <!-- ****************************************************************************** -->
+
+    <!-- Document capture -->
+    <string name="doc_capture_camera_title_rpc">Aufenthaltsgenehmigung</string>
+    <string name="doc_capture_camera_title_idc">Personalausweis</string>
+    <string name="doc_capture_camera_title_passport_inside">Reisepass</string>
+
+    <string name="doc_capture_camera_subtitle_rpc_front">Richten Sie die Vorderseite Ihrer Aufenthaltsgenehmigung mittig innerhalb des Rahmens aus.</string>
+    <string name="doc_capture_camera_subtitle_rpc_back">Richten Sie die Rückseite Ihrer Aufenthaltsgenehmigung mittig innerhalb des Rahmens aus.</string>
+    <string name="doc_capture_camera_subtitle_pidc_inside">Richten Sie die Vorderseite Ihres Personalausweises mittig innerhalb des Rahmens aus.</string>
+    <string name="doc_capture_camera_subtitle_pidc_cover">Richten Sie die Rückseite Ihres Personalausweises mittig innerhalb des Rahmens aus.</string>
+    <string name="doc_capture_camera_subtitle_eidc_front">Richten Sie die Vorderseite Ihres Personalausweises mittig innerhalb des Rahmens aus.</string>
+    <string name="doc_capture_camera_subtitle_eidc_back">Richten Sie die Rückseite Ihres Personalausweises mittig innerhalb des Rahmens aus.</string>
+    <string name="doc_capture_camera_subtitle_passport_inside">Richten Sie Ihren Reisepass mittig innerhalb des Rahmens aus.</string>
+
+    <string name="doc_capture_check_button_accept">Dieses Foto bestätigen</string>
+    <string name="doc_capture_check_button_discard">Neues Foto aufnehmen</string>
+    <string name="doc_capture_check_title">Ausweis</string>
+    <string name="doc_capture_check_subtitle">Achten Sie darauf, dass das Foto Ihres Ausweises gut erkennbar und nicht abgeschnitten oder verschwommen ist und keine Spiegelungen aufweist.</string>
+    <string name="doc_capture_dialog_exit_message">Wollen Sie die Aufnahme Ihres Lichtbildausweises wirklich beenden?</string>
+    <string name="doc_capture_dialog_exit_title">Info</string>
+
+    <string name="doc_capture_dialog_exit_yes">Ja</string>
+    <string name="doc_capture_dialog_exit_no">Nein</string>
+
+    <!-- Selfie -->
+    <string name="assisted_selfie_start_title">Drücken Sie auf die Schaltfläche „Starten“.</string>
+    <string name="assisted_selfie_start_subtitle">Machen Sie ein Foto von sich, auf dem Sie gut zu erkennen sind und das nicht verschwommen ist oder Spiegelungen aufweist</string>
+    <string name="assisted_selfie_start_button">Starten</string>
+    <string name="assisted_selfie_dialog_exit_cancel">Nein</string>
+    <string name="assisted_selfie_dialog_exit_message">Wollen Sie die Identitätsprüfung wirklich beenden?</string>
+    <string name="assisted_selfie_dialog_exit_ok">Ja</string>
+    <string name="assisted_selfie_liveness_subtitle_close_eyes">Halten Sie Ihr Gesicht vor die Kamera. Schließen Sie die Augen, bis Sie den Signalton von Ihrem Gerät hören. Öffnen Sie die Augen wieder.</string>
+    <string name="assisted_selfie_liveness_subtitle_smile">Halten Sie Ihr Gesicht vor die Kamera. Lächeln Sie, bis Sie den Signalton von Ihrem Gerät hören.</string>
+    <string name="assisted_selfie_liveness_subtitle_tilt_left">Neigen Sie Ihr Gesicht langsam nach links, bis Sie den Signalton von Ihrem Gerät hören.</string>
+    <string name="assisted_selfie_liveness_subtitle_tilt_right">Neigen Sie Ihr Gesicht langsam nach rechts, bis Sie den Signalton von Ihrem Gerät hören.</string>
+    <string name="assisted_selfie_liveness_subtitle_turn_left">Drehen Sie Ihr Gesicht langsam nach links, bis Sie den Signalton von Ihrem Gerät hören.</string>
+    <string name="assisted_selfie_liveness_subtitle_turn_right">Drehen Sie Ihr Gesicht langsam nach rechts, bis Sie den Signalton von Ihrem Gerät hören.</string>
+    <string name="assisted_selfie_liveness_title_close_eyes">Schließen Sie die Augen</string>
+    <string name="assisted_selfie_liveness_title_smile">Lächeln Sie</string>
+    <string name="assisted_selfie_liveness_title_tilt_left">Neigen Sie Ihr Gesicht nach links</string>
+    <string name="assisted_selfie_liveness_title_tilt_right">Neigen Sie Ihr Gesicht nach rechts</string>
+    <string name="assisted_selfie_liveness_title_turn_left">Drehen Sie Ihr Gesicht nach links</string>
+    <string name="assisted_selfie_liveness_title_turn_right">Drehen Sie Ihr Gesicht nach rechts</string>
+    <string name="assisted_selfie_photo_alert_too_close">Sie sind zu nah.</string>
+    <string name="assisted_selfie_photo_alert_too_far">Sie sind zu weit weg.</string>
+    <string name="assisted_selfie_photo_countdown_counter_plural"> Sekunden</string>
+    <string name="assisted_selfie_photo_countdown_counter_singular"> Sekunde</string>
+    <string name="assisted_selfie_photo_countdown_title">Fotoaufnahme in …</string>
+    <string name="assisted_selfie_photo_taken">Foto aufgenommen</string>
+    <string name="assisted_selfie_start_processing">Wird verarbeitet…</string>
+    <string name="assisted_selfie_photo_alert_not_aligned">Ihr Gesicht ist nicht richtig ausgerichtet.</string>
+    <string name="assisted_selfie_photo_alert_not_inside_oval">Ihr Gesicht befindet sich nicht im ovalen Bereich.</string>
+    <string name="assisted_selfie_photo_alert_multiple_faces_detected">Mehr als ein Gesicht auf dem Foto.</string>
+    <string name="assisted_selfie_liveness_title_intra_step">OK</string>
+    <string name="assisted_selfie_liveness_subtitle_intra_step"></string>
+    <string name="assisted_selfie_start_button_width">0.6</string>
+
+    <string name="assisted_selfie_internal_check_title_error_no_face">Gesicht nicht im Rahmen ausgerichtet</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_no_face" />
+    <string name="assisted_selfie_internal_check_title_error_multiple_faces">Mehrere Gesichter erkannt</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_multiple_faces" />
+    <string name="assisted_selfie_internal_check_title_error_face_not_aligned">Gesicht nicht im Rahmen ausgerichtet</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_face_not_aligned" />
+    <string name="assisted_selfie_internal_check_title_error_too_smiling_face">Gesicht zu lächelnd</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_too_smiling_face" />
+    <string name="assisted_selfie_internal_check_title_error_eyes_zone_too_dark">Foto zu dunkel</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_eyes_zone_too_dark" />
+    <string name="assisted_selfie_internal_check_title_error_on_eyes">Foto nicht konform</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_on_eyes">Halten Sie die Augen offen</string>
+    <string name="assisted_selfie_internal_check_title_error_on_face_landmark">Gesicht nicht im Rahmen ausgerichtet</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_on_face_landmark" />
+    <string name="assisted_selfie_internal_check_title_error_selfie_not_valid">Nicht konformes Foto</string>
+    <string name="assisted_selfie_internal_check_subtitle_error_selfie_not_valid" />
+    <string name="assisted_selfie_internal_check_button_discard">Neues Foto aufnehmen</string>
+    <string name="assisted_selfie_photo_alert_no_action_timer_title">Achtung</string>
+    <string name="assisted_selfie_photo_alert_no_action_timer_message">Achten Sie darauf, dass Ihr Gesicht im ovalen Bereich bleibt und dass genügend Licht vorhanden ist.</string>
+    <string name="assisted_selfie_photo_alert_no_action_timer_ok">OK</string>
+
+</resources>
